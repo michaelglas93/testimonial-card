@@ -8,12 +8,12 @@ function App() {
       <div className="
         w-full
         h-screen
-        flex flex-col items-center justify-center
+        flex flex-col items-center
         bg-gradient-to-b from-[#f9fafb] to-[#d2d6db]
         sm:h-[812px]   
         md:h-[1024px]  
         xl:h-[768px]
-         
+        pt-[200px]
         ">
         <div class="w-[340px] flex flex-col gap-4 bg-white p-6 rounded-lg">
           <div class="flex items-center gap-4 self-stretch">
